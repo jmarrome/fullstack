@@ -1,8 +1,9 @@
 h1{
 	text-align: center;
+	color:#AC2525;
 }
 .subtitle{
-	color: #58FAAC;
+	color: #C4C1C1;
 }
 .lineSeparate{
 	background-color: black;
@@ -11,3 +12,12 @@ h1{
 .styleContent{
 	border-style: dashed;
 }
+
+.bloq-descr{
+
+	background: #FBF9F9;
+
+	}
+.bloq-descr2{
+	position: relative;
+	}
