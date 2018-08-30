@@ -1,0 +1,13 @@
+h1{
+	text-align: center;
+}
+.subtitle{
+	color: #58FAAC;
+}
+.lineSeparate{
+	background-color: black;
+	height: 2px;
+}
+.styleContent{
+	border-style: dashed;
+}
